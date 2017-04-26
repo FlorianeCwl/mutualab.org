@@ -6,7 +6,8 @@ published: true
 
 
 # Organiser un événement ,louer une salle de réunion
-
+Les demandes de location se font **uniquement par email**: mutualab@coworkinglille.com 
+>
 > **_Vous recherchez un lieu accessible et atypique pour organiser vos réunions, événements ou conférences ?_**
 > 
 > Mutualab est un lieu d’échange et de rencontre, de partage de connaissances et de savoir-faire. Nos salles de réunion et d’événement vous permettront de réunir vos équipes et partenaires dans un espace inspirant.
@@ -31,19 +32,19 @@ Tarif HT à la journée / soirée: 150 € / 80 €
 [%components.callToAction({label:"Réserver cette salle",url:"reserver-salle.html#/?room=57cd67d001bd9e3bbf44c66e"})%]
 
 
-### Grande salle de réunion – 60 pers.
+### Grande salle de réunion – 22 pers. en mode conférence / 35 pers. en mode théâtre
 
-Au rez-de-chaussée, une grande salle de réunion de 70 m² accueille les grands événements : présentations, workshops, séminaires ou formations.
+Au rez-de-chaussée, une grande salle de réunion de 55 m² accueille les grands événements : présentations, workshops, séminaires ou formations.
 
 ![Une salle multifonction claire et agréable, pour 30 ou 60 pers.]({{site.baseurl}}/contents/images/salle-reunion/Halle-au-bardage.jpg)  
-Salle de réunion claire et agréable, pour 60 personnes
+Salle de réunion claire et agréable, pour 22 / 35 personnes
 
-- **Capacité: **Jusqu’à 60 personnes (en configuration théâtre).
+- **Capacité: **Jusqu’à 35 personnes assises (en configuration théâtre).
 - **Équipement:** Vidéo-projecteur, internet, WiFi, paperboard.
 - **Disponibilité**: du lundi au vendredi, 9h – 18h (au-delà, nous consulter)
 Prévoir un adaptateur hdmi ou autre si besoin!
 
-Tarif HT à la journée / soirée: 290 € / 150 € 
+Tarif HT à la journée / soirée: 360 € / 160 € 
 [%components.callToAction({label:"Réserver cette salle", url:"reserver-salle.html#/?room=57cd67d0f1ccdc12ddf65e77"})%]
 
 
@@ -56,7 +57,7 @@ Cet espace de 100 m² est dédié aux événements ponctuels ou réguliers.
 
 Un espace entièrement configurable, ouvert à de nombreux formats : conférences, workshops, barcamps, etc.
 
-- **Capacité : **Jusqu’à 80 places assises / 100 personnes debout.
+- **Capacité : **Jusqu’à 90 places assises / 115 personnes debout.
 - **Équipement :** Vidéo-projecteur, sonorisation, micros, internet, WiFi.
 - **Disponibilité **: du lundi au vendredi, de 9h à 18h (au-delà, nous consulter).
 
@@ -66,22 +67,16 @@ Tarif HT à la journée / soirée: 600 € / 350 €
 [%components.callToAction({label:"Réserver cet espace",url:"reserver-salle.html#/?room=57cd67d08d74c65d5998a690"})%]
 
 
-## Prestations complémentaires
+## Prestations complémentaires - Traiteur
 
 Nous vous proposons d’alléger votre organisation en agrémentant vos événements selon vos besoins.
 
-**Petits-déjeuners – Pauses café :**
+- **Petits-déjeuners**
+- **Pauses café**
+- **Cocktail**
+- **Buffet froid**
 
-Forfait suivant les demandes: 
-
-- Boissons chaudes.
-- Eau minérale, eau gazeuse et jus de fruit.
-- Viennoiseries, petits gâteaux.
-
-**Traiteur :**
-
-Différentes formules suivant les demandes:  
-Nous pouvons gérer pour vous la livraison de lunch box, l’organisation complète d’un buffet (bio ou non) ou d’un cocktail via nos prestataires.
+Forfait suivant les demandes.
 
 
 **Accompagnement dans la structuration de l’événement :**
